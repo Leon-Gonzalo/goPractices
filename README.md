@@ -1,0 +1,2 @@
+# goPractices
+Practivas de Golang
